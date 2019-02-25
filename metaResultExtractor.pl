@@ -1,6 +1,7 @@
 
-#Main author of this script: Dr Marc-Olivier Duceppe: Marc-Olivier.Duceppe@canada.ca
-#Co-author Dr Emilie Tremblay: Emilie.Tremblay@canada.ca
+#Main author of this script: Dr Marc-Olivier Duceppe: marc-olivier.duceppe@canada.ca
+#https://github.com/duceppemo
+#Co-author Dr Emilie Tremblay: emilie.tremblay@canada.ca
 
 
 #!/bin/perl
