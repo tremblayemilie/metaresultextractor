@@ -1,3 +1,8 @@
+
+#Main author of this script: Dr Marc-Olivier Duceppe: Marc-Olivier.Duceppe@canada.ca
+#Co-author Dr Emilie Tremblay: Emilie.Tremblay@canada.ca
+
+
 #!/bin/perl
 
 use strict;
